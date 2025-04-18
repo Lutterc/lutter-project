@@ -1,0 +1,1 @@
+export const DEFAULT_LAYOUT = () => import('@/views/layout/default-layout.vue');
